@@ -2,7 +2,7 @@ apple pie
 pastry
 butter
 sugar
-apple
+20 apples
 1tbsp cinnamon
 
 
