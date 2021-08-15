@@ -5,3 +5,5 @@ sos
 a
 strawberry
 idlysambar
+bonda
+vada
